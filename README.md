@@ -1,4 +1,4 @@
-# WebSerivices
+# WebServices
 Simple installation guide of ELK and FSCrawler 
 # *WebServices*
 ##### *Simone Franceschini - Davide Sartori - Alessandro Scardino - Marco Tregnaghi*
